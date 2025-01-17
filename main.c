@@ -4,11 +4,11 @@
  * Description: This is the source code for the PSoC 4 Frequency measurement
  * using TCPWM Application for ModusToolbox.
  *
- * Related Document: See README.md
+ * Related Document: See README.md 
  *
  *
  *******************************************************************************
- * Copyright 2023, Cypress Semiconductor Corporation (an Infineon company) or
+ * Copyright 2023-2024, Cypress Semiconductor Corporation (an Infineon company) or
  * an affiliate of Cypress Semiconductor Corporation.  All rights reserved.
  *
  * This software, including source code, documentation and related
