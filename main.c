@@ -86,7 +86,7 @@ const cy_stc_sysint_t sysint_counter_cfg =
  *  1. Initializes the BSP.
  *  2. This function initializes the peripherals to measure the frequency
  *     and display the result accordingly.
- *
+ * 
  * Parameters:
  *  None
  *
